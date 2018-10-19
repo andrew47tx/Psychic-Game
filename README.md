@@ -1,1 +1,1 @@
-# physic-game-
+# Psychic-Game
